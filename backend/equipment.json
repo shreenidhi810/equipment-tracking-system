@@ -1,0 +1,16 @@
+[
+  {
+    "id": 1,
+    "name": "Mixer 1",
+    "type": "Mixer",
+    "status": "Active",
+    "lastCleaned": "2024-01-01"
+  },
+  {
+    "id": 1766043103130,
+    "name": "mixer 2",
+    "type": "Machine",
+    "status": "Active",
+    "lastCleaned": "2025-12-02"
+  }
+]
